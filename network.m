@@ -1,0 +1,1 @@
+rawImgDataTrain = uint8 (fread(fid, numImg * numRows * numCols, 'uint8'));
